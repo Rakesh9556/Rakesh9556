@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Rakesh9556/Rakesh9556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Tagline from your GitHub bio -->
+- As an aspiring software developer, I'm driven by a passion for leveraging technology to create impactful solutions that enhance people's lives. With a strong foundation in a versatile tech stack, I'm dedicated to crafting innovative products that address real-world challenges and drive positive change. From concept to execution, I thrive on turning ideas into tangible solutions that make a difference. Let's connect and collaborate to bring meaningful projects to life
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently in 7th semester of B.Tech (CSE)
+- 💻 Backend Developer specializing in **Java** & **Spring Framework**
+- 🗄️ Skilled with:  
+  - Java, Advanced Java  
+  - Spring Core, Spring MVC  
+  - MySQL Database
+
+## Favorite Project
+
+- Check out my **University Management System** project on [GitHub](https://github.com/Rakesh9556/university-management-system) – it’s my favorite!
+
+## Find Me Online
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-guru)
+- 🌐 [Personal Website](https://rakeshguru.me)
+
+## Hobbies
+
+- 📱 Exploring smartphone features
+- 🌍 Keeping up with current geopolitical affairs
+
+---
+
+Thanks for checking out my profile!
