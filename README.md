@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🎓 Currently in 7th semester of B.Tech (CSE)
+- 🎓 Currently in 8th semester of B.Tech (CSE)
 - 💻 Backend Developer specializing in **Java** & **Spring Framework**
 - 🗄️ Skilled with:  
   - Java, Advanced Java  
